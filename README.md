@@ -1,5 +1,6 @@
 # Basic Full Stack Dev
  Learning basics of Java Spring Boot, React, and MongoDB
+Installation guide: [Click here](https://github.com/mohit-nagaraj/Basic-Full-Stack-Dev/wiki)
 
 Example:
 - Homepage
